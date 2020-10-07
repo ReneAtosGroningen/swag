@@ -11,7 +11,8 @@ const quotes = [
   'You\'re capable of more than you can even dream.',
   'You deserve the best.',
   'Keep going, you\'re doing well.',
-  'Stay positive; stay hopeful'
+  'Stay positive; stay hopeful',
+  'Ho Ho Ho Merry Christmas !'
 ];
 
 async function getImage() {
